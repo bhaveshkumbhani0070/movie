@@ -49,3 +49,6 @@ CREATE TABLE movies (
     FOREIGN KEY (user_id) REFERENCES users(id)
 );
 ```
+
+Postman Document
+https://documenter.getpostman.com/view/783399/2s9YXbARbP
