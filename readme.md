@@ -2,6 +2,16 @@
 
 ## Introduction
 
+### Tech used
+
+```
+   Next.js
+   React.js
+   Node.js
+   Postgresql
+   Tailwindcss
+```
+
 This is a simple movie listing application that allows users to register, manage a list of their favorite movies. Users can add, edit, and delete movies from their list.
 
 ## Setup Instructions
